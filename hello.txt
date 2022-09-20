@@ -1,4 +1,0 @@
-hello
-sudheer
-this is git
-do well
